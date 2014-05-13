@@ -8,13 +8,26 @@ The analytics are oriented to movies released in the cinema and their relevance,
 
 ##Contents
 
-###Summary
+###Big Data Case Study in Social Media - Vicente Ruben Del Pino Ruiz
 
 Summary of the project, high overview of technologies used, steps and infraestructure created.
 
-###Report
+###Big Data Case Study in Social Media - Vicente Ruben Del Pino Ruiz_Report
 
 Deep detail of the design of the project and how to create each layer and technology used. 
+
+###Demo and working code
+
+Readme for installing all the code in a Hadoop cluster.
+The code is uploaded to GitHub
+
+###Slides
+
+Slides with the presentation and summary of the project.
+
+###Youtube links
+
+Links to the youtube presentation and summary of the project.
 
 
 
