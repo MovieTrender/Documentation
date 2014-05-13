@@ -29,6 +29,10 @@ Slides with the presentation and summary of the project.
 
 Links to the youtube presentation and summary of the project.
 
+[Summary](http://www.youtube.com/watch?v=vRZLd0zcc7w "Summary")
+
+[Presentation](http://www.youtube.com/watch?v=g44yqpxVSuU "Presentation")
+
 
 
 
